@@ -22,7 +22,7 @@
     "url": "http://jp.edwardzjl.me/",
     "icon": "https://icons.duckduckgo.com/ip3/jp.edwardzjl.me.ico",
     "slug": "idc-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 397,
     "timeMonth": 371,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-10": 0
+    }
   }
 ]
