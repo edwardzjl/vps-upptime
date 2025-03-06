@@ -5,8 +5,8 @@ repo: vps-upptime # The name of this repository
 sites:
   - name: linode-us
     url: http://edwardzjl.me/
-  - name: idc-jp
-    url: http://jp.edwardzjl.me/
+  - name: bandwagon-us
+    url: http://us.edwardzjl.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
