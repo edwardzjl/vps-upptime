@@ -14,7 +14,7 @@
     "timeDay": 135,
     "timeWeek": 137,
     "timeMonth": 130,
-    "timeYear": 176,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -22,8 +22,8 @@
     "url": "http://us.edwardzjl.me/",
     "icon": "https://icons.duckduckgo.com/ip3/us.edwardzjl.me.ico",
     "slug": "bandwagon-us",
-    "status": "up",
-    "uptime": "95.97%",
+    "status": "down",
+    "uptime": "95.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
