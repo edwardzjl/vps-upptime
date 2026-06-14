@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 135,
-    "timeWeek": 137,
-    "timeMonth": 130,
-    "timeYear": 177,
+    "timeDay": 151,
+    "timeWeek": 136,
+    "timeMonth": 133,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.edwardzjl.me.ico",
     "slug": "bandwagon-us",
     "status": "down",
-    "uptime": "95.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.96%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.98%",
     "time": 168,
-    "timeDay": 124,
-    "timeWeek": 164,
-    "timeMonth": 132,
+    "timeDay": 0,
+    "timeWeek": 167,
+    "timeMonth": 135,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2026-03-01": 18
+      "2026-03-01": 18,
+      "2026-06-14": 68,
+      "2026-06-13": 42
     }
   }
 ]
