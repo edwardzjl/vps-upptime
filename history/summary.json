@@ -22,22 +22,22 @@
     "url": "http://us.edwardzjl.me/",
     "icon": "https://icons.duckduckgo.com/ip3/us.edwardzjl.me.ico",
     "slug": "bandwagon-us",
-    "status": "down",
-    "uptime": "96.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "status": "up",
+    "uptime": "96.46%",
+    "uptimeDay": "60.80%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.71%",
     "time": 163,
-    "timeDay": 0,
-    "timeWeek": 130,
-    "timeMonth": 133,
+    "timeDay": 50,
+    "timeWeek": 114,
+    "timeMonth": 131,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2026-03-01": 18,
       "2026-06-14": 921,
       "2026-06-13": 42,
-      "2026-09-14": 0
+      "2026-09-14": 564
     }
   }
 ]
